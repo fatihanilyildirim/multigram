@@ -6,6 +6,12 @@ SPAMA DÜŞÜRMEMEK ÇOK BASİT. VE TAMAMEN SİZİN ELİNİZDE OLAN BİR ŞEY..
 
 3 GÜNLÜK LİSANS KODU : MGRM-7556-6THY-R10T
 
+#### HESAP EKLEME'DE ONAY
+
+Hesap ilk eklenirken telefon onayını kaldırınız. Mail onayı kalabilir.
+Hesap eklenirken mail onay kodu istenirse CMD tarafında bot size maile gelen kodu soruyor.
+Onu girdikten sonra devam edebiliyorsunuz. Telefon doğrulaması tarafıyla denenmedi.
+
 #### Kurulum
 
 Botu indirin,
