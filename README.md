@@ -1,3 +1,6 @@
+MultiGram - Instagram Otomasyon Aracı
+MultiGram, birden fazla Instagram hesabını tek bir yerden yönetmenize, gönderilerinizi (fotoğraf, video, reel) kolayca planlamanıza ve paylaşım süreçlerinizi otomatikleştirmenize olanak tanıyan bir masaüstü uygulamasıdır.
+
 ### **MultiGram Kullanım Kılavuzu (v1.0)**
 
 MultiGram'a hoş geldiniz! Bu kılavuz, Instagram gönderi planlama ve yönetim işlemlerinizi otomatikleştirmek için programı nasıl kullanacağınızı adım adım gösterecektir.
