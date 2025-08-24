@@ -1,10 +1,3 @@
-# multigram
-Harika bir hatırlatma, çok doğru. `setup` dosyası olmadan, yani programı bir klasör olarak dağıttığınız senaryo için kullanım kılavuzunu baştan hazırladım.
-
-Bu kılavuz, kullanıcının programı `.zip` dosyası olarak aldığını varsayarak her adımı en basit şekilde anlatır.
-
----
-
 ### **MultiGram Kullanım Kılavuzu (v1.0)**
 
 MultiGram'a hoş geldiniz! Bu kılavuz, Instagram gönderi planlama ve yönetim işlemlerinizi otomatikleştirmek için programı nasıl kullanacağınızı adım adım gösterecektir.
