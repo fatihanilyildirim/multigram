@@ -1,4 +1,4 @@
-Deneme Lisansı: MGRM-7556-6THY-R10T
+
 
 MultiGram - Instagram Otomasyon Aracı
 MultiGram, birden fazla Instagram hesabını tek bir yerden yönetmenize, gönderilerinizi (fotoğraf, video, reel) kolayca planlamanıza ve paylaşım süreçlerinizi otomatikleştirmenize olanak tanıyan bir masaüstü uygulamasıdır.
